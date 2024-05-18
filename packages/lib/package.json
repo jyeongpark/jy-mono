@@ -1,0 +1,8 @@
+{
+  "name": "@jy-mono/lib",
+  "main": "./src/index.ts",
+  "packageManager": "yarn@4.2.2",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}

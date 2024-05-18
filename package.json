@@ -2,6 +2,10 @@
   "name": "jy-mono",
   "packageManager": "yarn@4.2.2",
   "workspaces": [
-    "packages/*"
-  ]
+    "packages/*",
+    "apps/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
 }
